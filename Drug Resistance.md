@@ -1,4 +1,4 @@
-**#Learning Track 5: **AMR in Cancer****
+**Learning Track 5: **AMR in Cancer****
 
 **Stage 0 **(Writing)****
 
@@ -7,6 +7,8 @@
 ** **
 
 **Drug Resistance in Cancer**
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mdpi.com%2F2072-6694%2F6%2F3%2F1769&psig=AOvVaw2RuHT7r_Ma6Y0XsKWRJwoI&ust=1725449224674000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICtobXVpogDFQAAAAAdAAAAABAE)
 
 ** **
 
