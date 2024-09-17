@@ -1,4 +1,4 @@
-`maliboba@DESKTOP-T336VHB:~$` `ls`
+maliboba@DESKTOP-T336VHB:~$ `ls`
 
 `maliboba@DESKTOP-T336VHB:~$` $ `mkdir` `stage1_assign`
 
