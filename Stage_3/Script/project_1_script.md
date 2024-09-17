@@ -1,6 +1,6 @@
 # **Codes for Bash Project 1**
 
-## Creating folders 
+### Creating folders 
 maliboba@DESKTOP-T336VHB:~$ `ls`
 
 maliboba@DESKTOP-T336VHB:~$ `mkdir` `claudia`
