@@ -52,7 +52,7 @@ The primary dataset includes the top ten countries affected by cholera, primaril
 
 Factors such as the absence of healthcare services, limited access to safe drinking water, climate change impacts, and ongoing conflicts significantly contribute to cholera-related fatalities. The unavailability of antibiotics in impoverished regions further exacerbates the situation. Analysis reveals that the majority of countries with the highest increase in cholera deaths are developing nations, where vulnerable populations lack access to clean water and sanitation (WHO, 2024 [GD4] ).
 
-Interestingly, a European nation reported unexpectedly high mortality rates, possibly indicating treatment resistance or a population primarily composed of the elderly and young children (Demlie Y.W., 2024 [GD5] ). While the number of cholera cases has risen, both the death rate and fatality rate have declined, primarily due to improvements in healthcare access and sanitation.
+Interestingly, a European nation reported unexpectedly high mortality rates, possibly indicating treatment resistance or a population primarily composed of the elderly and young children (Demlie Y.W., 2024 )[GD5]. While the number of cholera cases has risen, both the death rate and fatality rate have declined, primarily due to improvements in healthcare access and sanitation.
 
 ## **Conclusion**
 Cholera remains a persistent public health challenge, particularly in developing nations. Addressing the root causes, such as access to clean water and healthcare, is crucial in mitigating the impact of this preventable disease.
