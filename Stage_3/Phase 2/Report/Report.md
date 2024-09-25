@@ -46,7 +46,7 @@ Cholera is an acute diarrheal infection caused by ingestion of food or water con
 
 **
 
-The data illustrates the incidence of cholera cases documented over sixty-seven years. The year 1949 marked the lowest number of cases, while significant peaks were observed in 1991 and 2011. The surge in 1991 is attributed to a new strain that spread beyond its typical range (CDC [GD1] ). Increased outbreaks may also result from antibiotic resistance in variants of the causative organisms (Pranab et al., 2020 [GD2] ).
+The data illustrates the incidence of cholera cases documented over sixty-seven years. The year 1949 marked the lowest number of cases, while significant peaks were observed in 1991 and 2011. The surge in 1991 is attributed to a new strain that spread beyond its typical range  [GD1](https://www.cdc.gov/mmwr/preview/mmwrhtml/00036609.htm) (CDC [GD1] ). Increased outbreaks may also result from antibiotic resistance in variants of the causative organisms (Pranab et al., 2020 [GD2] ).
 
 The primary dataset includes the top ten countries affected by cholera, primarily developing nations. India ranks first due to its significant reliance on untreated drinking water in rural areas. Each of these nations faces substantial economic challenges (Lipp et al., 2002[GD3] ).
 
