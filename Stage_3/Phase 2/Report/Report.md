@@ -69,10 +69,10 @@ Cholera remains a persistent public health challenge, particularly in developing
 
  [GD5](https://doi.org/10.1093/cid/ciae236)
 
-### link to Google doc 
+## link to Google doc 
 [Here](https://docs.google.com/document/d/1ovuTXUYGAfFw_cpZ_E-u7lLs2LrqQKm0maptTwb4Dn4/edit?usp=sharing)
 
-### link to App
+## link to App
 [Here]( https://claudiaagyeere.shinyapps.io/CHOLDAT/)
 
  
