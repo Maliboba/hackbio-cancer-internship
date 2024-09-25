@@ -8,7 +8,7 @@
 
 # **Authors(@slack):**
 
-**Gideon Danso(@Gideon\\_0703)**
+**Gideon Danso(@Gideon\_0703)**
 
 **Claudia Agyeere(@Agyeere9)**
 
