@@ -12,13 +12,13 @@
 
 **Claudia Agyeere(@Agyeere9)**
 
-**@FaithAyo1**
+**Faith Oluyinka Ayoade(@FaithAyo1)**
 
-**@Chiddo**
+**Obibuogu Emmanuel Chidiebere(@Chiddo)**
 
-**@Hala**
+**Hala Tariq Abdelnabi Mohammad(@Hala)**
 
-**@Maurice**
+**Ikporo Maurice Godwin(@Maurice)**
 
 ** 
 
