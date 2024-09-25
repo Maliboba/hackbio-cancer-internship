@@ -20,9 +20,9 @@
 
 **@Maurice**
 
-** **
+** 
 
-** **
+** 
 
 ## **Introduction**
 Cholera is an acute diarrheal infection caused by ingestion of food or water contaminated with the bacterium _Vibrio cholerae_. It remains a global threat to public health and a key indicator of inequity and social development. According to WHO, cholera spread globally during the 19th century from its original reservoir in the Ganges delta in India, leading to six pandemics that killed millions. The current (seventh) pandemic began in South Asia in 1961, reaching Africa in 1971 and the Americas in 1991, making cholera endemic in many countries.
@@ -44,7 +44,7 @@ Cholera is an acute diarrheal infection caused by ingestion of food or water con
 ### Combined plots
 ![Rplot(combined)_page-0001](https://github.com/user-attachments/assets/9d6ce9b1-45c7-4671-9bff-5a177ad2b83e)
 
-
+**
 
 The data illustrates the incidence of cholera cases documented over sixty-seven years. The year 1949 marked the lowest number of cases, while significant peaks were observed in 1991 and 2011. The surge in 1991 is attributed to a new strain that spread beyond its typical range (CDC\[GD1] ). Increased outbreaks may also result from antibiotic resistance in variants of the causative organisms (Pranab et al., 2020\[GD2] ).
 
@@ -59,23 +59,15 @@ Cholera remains a persistent public health challenge, particularly in developing
 
 ## **References**
 
-[GD1]https\://www\.cdc.gov/mmwr/preview/mmwrhtml/00036609.htm
+[GD1]https://www.cdc.gov/mmwr/preview/mmwrhtml/00036609.htm
 
- 
+ [GD2]DOI:[ ](https://doi.org/10.1016/j.vaccine.2019.12.003)[10.1016/j.vaccine.2019.12.003](https://doi.org/10.1016/j.vaccine.2019.12.003)
 
- [GD2]DOI:\[ ]\(https\://doi.org/10.1016/j.vaccine.2019.12.003)\[10.1016/j.vaccine.2019.12.003]\(https\://doi.org/10.1016/j.vaccine.2019.12.003)
+ [GD3]DOI:[ ](https://doi.org/10.1128/cmr.15.4.757-770.2002)[10.1128/CMR.15.4.757-770.2002](https://doi.org/10.1128/cmr.15.4.757-770.2002)
 
- 
+ [GD4]https://www.who.int/news-room/fact-sheets/detail/cholera
 
- [GD3]DOI:\[ ]\(https\://doi.org/10.1128/cmr.15.4.757-770.2002)\[10.1128/CMR.15.4.757-770.2002]\(https\://doi.org/10.1128/cmr.15.4.757-770.2002)
-
- 
-
- [GD4]https\://www\.who.int/news-room/fact-sheets/detail/cholera
-
- 
-
- [GD5]https\://doi.org/10.1093/cid/ciae236
+ [GD5]https://doi.org/10.1093/cid/ciae236
 
  
 
