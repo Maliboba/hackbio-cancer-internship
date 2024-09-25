@@ -59,15 +59,15 @@ Cholera remains a persistent public health challenge, particularly in developing
 
 ## **References**
 
-[GD1]https://www.cdc.gov/mmwr/preview/mmwrhtml/00036609.htm
+[GD1](https://www.cdc.gov/mmwr/preview/mmwrhtml/00036609.htm)
 
- [GD2]DOI:[ ](https://doi.org/10.1016/j.vaccine.2019.12.003)[10.1016/j.vaccine.2019.12.003](https://doi.org/10.1016/j.vaccine.2019.12.003)
+ [GD2](DOI:[ ](https://doi.org/10.1016/j.vaccine.2019.12.003)[10.1016/j.vaccine.2019.12.003](https://doi.org/10.1016/j.vaccine.2019.12.003))
 
- [GD3]DOI:[ ](https://doi.org/10.1128/cmr.15.4.757-770.2002)[10.1128/CMR.15.4.757-770.2002](https://doi.org/10.1128/cmr.15.4.757-770.2002)
+ [GD3](DOI:[ ](https://doi.org/10.1128/cmr.15.4.757-770.2002)[10.1128/CMR.15.4.757-770.2002](https://doi.org/10.1128/cmr.15.4.757-770.2002))
 
- [GD4]https://www.who.int/news-room/fact-sheets/detail/cholera
+ [GD4](https://www.who.int/news-room/fact-sheets/detail/cholera)
 
- [GD5]https://doi.org/10.1093/cid/ciae236
+ [GD5](https://doi.org/10.1093/cid/ciae236)
 
  
 
